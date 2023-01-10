@@ -1,5 +1,4 @@
 // BEAKL-15p Keyboard Layout
-// https://github.com/sunaku/beakl15p
 partial alphanumeric_keys
 xkb_symbols "beakl15p"
 {
